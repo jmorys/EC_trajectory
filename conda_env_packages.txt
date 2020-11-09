@@ -1,0 +1,50 @@
+anndata==0.7.4
+certifi==2020.6.20
+click==7.1.2
+cycler==0.10.0
+Cython @ file:///C:/ci/cython_1594829190914/work
+decorator==4.4.2
+get-version==2.1
+h5py==2.10.0
+joblib @ file:///tmp/build/80754af9/joblib_1601912903842/work
+kiwisolver @ file:///C:/ci/kiwisolver_1604014703538/work
+legacy-api-wrap==1.2
+llvmlite==0.34.0
+loompy==3.0.6
+matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
+mkl-fft==1.2.0
+mkl-random==1.1.1
+mkl-service==2.3.0
+natsort==7.0.1
+networkx==2.5
+numba==0.51.2
+numexpr==2.7.1
+numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
+numpy-groupies==0.9.13
+olefile==0.46
+packaging==20.4
+pandas==1.1.4
+patsy==0.5.1
+Pillow @ file:///C:/ci/pillow_1603823068645/work
+pyparsing==2.4.7
+pyreadline==2.1
+python-dateutil==2.8.1
+pytz==2020.1
+scanpy==1.6.0
+scikit-learn @ file:///C:/ci/scikit-learn_1598377018496/work
+scipy @ file:///C:/ci/scipy_1592916963468/work
+scvelo==0.2.2
+seaborn==0.11.0
+setuptools-scm==4.1.2
+sinfo==0.3.1
+sip==4.19.13
+six==1.15.0
+statsmodels==0.12.1
+stdlib-list==0.7.0
+tables==3.6.1
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tornado==6.0.4
+tqdm==4.51.0
+umap-learn==0.4.6
+wincertstore==0.2
+wrapt==1.12.1
